@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "SecuaTrade",
+    "slug": "secuatrade-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.secuatrade.mobile"
+    },
+    "android": {
+      "package": "com.secuatrade.mobile"
+    }
+  }
+}
